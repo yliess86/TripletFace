@@ -79,7 +79,7 @@ optional arguments:
 
 ## Todo ( For the students )
 
-**Deadline Decembre 13th 2019 at 12pm**
+**Deadline Decembre 14th 2019 at 12am**
 
 The students are asked to complete the following tasks:
 * Fork the Project
